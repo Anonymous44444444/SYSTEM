@@ -527,7 +527,7 @@ $totalVarieties = count(array_unique(array_column($reports, 'seedlingVariety')))
   <!-- Sidebar -->
   <div class="sidebar">
     <div class="logo">
-      <a href="dashboard.php"><img src="/DENR-SYSTEM/SYSTEM/image/DENR.jpg" alt="DENR" /></a>
+      <a href="dashboard.php"><img src="image/DENR.jpg" alt="DENR" /></a>
       <h3 class="sidebar-title">Department of Environment<br>and Natural Resources</h3>
     </div>
     <nav>
